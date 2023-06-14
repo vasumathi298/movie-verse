@@ -5,3 +5,6 @@ Login to docker hub, Linking local image with docker repository,  Push image to 
 
 
 https://hub.docker.com/r/vasumathi29/movie-verse/tags : Docker Tag
+
+App that runs in Docker : http://192.168.99.100:9900/
+![image](https://github.com/vasumathi298/movie-verse/assets/72432533/f481288b-7f04-471e-b439-be0be69756ea)
