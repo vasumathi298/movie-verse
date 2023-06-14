@@ -5,4 +5,4 @@ COPY target/spring-boot-movie-data-finder-0.0.1-SNAPSHOT.jar app/spring-boot-mov
 # expose server port accept connections
 EXPOSE 8080
 # start application
-CMD ["java", "-jar", "app/demoApp.jar"]
+CMD ["java", "-jar", "app/spring-boot-movie-data-finder-0.0.1-SNAPSHOT.jar"]
